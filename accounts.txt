@@ -1,0 +1,1 @@
+[{"id": "0905813e-7222-4aaa-8347-e38211c6b5cf", "name": "ahmet", "password": "123", "balance": 20.0, "transactions": [{"action": "deposit", "amount": 25.0, "balance": 25.0}, {"action": "withdraw", "amount": 5.0, "balance": 20.0}], "failed_login_attempts": 0}]
